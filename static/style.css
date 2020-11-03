@@ -1,0 +1,24 @@
+
+
+#boxLogin {
+    background-color: #DCDCDC;
+    color: black;
+    margin: 10px;
+}
+
+#windowLogin {
+    background-color: #363636;
+}
+
+#titleLogin {
+    color: black;
+    font-size: 30px;
+    font-family: "Arial", Bold;
+}
+
+#normalLabel {
+    color: black;
+    font-size: 15px;
+}
+
+
