@@ -7,7 +7,7 @@
        <img alt="pybr2020" src="https://i.imgur.com/c5wXKZL.png"
    </body>
 </html>
-
+    
 # This is window 2 thank you #pybr2020
 <html>
   <body>
@@ -15,10 +15,10 @@
        <img alt="pybr2020" src="https://i.imgur.com/fzM1v5C.png"
    </body>
 </html>
-
+    
 # Getting Started
 
-# --> Install 
+# -- Install 
 Installing the system provided PyGObject:
 
 Open a terminal
@@ -38,11 +38,11 @@ Run python3 login.py
 
 Reference: https://pygobject.readthedocs.io/en/latest/getting_started.html#ubuntu-getting-started
 
-# --> Login in System
+# -- Login in System
 user: michael
 password: semsenha
 
-# --> Access to database with Sqlite Browser
+# -- Access to database with Sqlite Browser
 Navigate to on project path in model directory
 Execute: sqlitebrowser pybr.db
 
